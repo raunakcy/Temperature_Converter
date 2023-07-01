@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Temperature_Converter</string>
+    <string name="temp">Temperature</string>
+    <string name="con">Temperature Converter</string>
+    <string name="enter">Enter the value in Celsius</string>
+    <string name="co">Convert</string>
+    <string name="value">the value in Celsius</string>
+    <string name="temp_con">the value in Celsius</string>
+
+</resources>
